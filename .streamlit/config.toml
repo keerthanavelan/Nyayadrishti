@@ -1,0 +1,10 @@
+[logger]
+level = "warning"
+
+[client]
+showErrorDetails = true
+
+[browser]
+gatherUsageStats = false
+
+
